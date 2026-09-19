@@ -1,0 +1,2 @@
+# Pandas-Data-Types-Choose-Types-That-Stay-Correct-and-Fast-course-code
+Pandas data types decide what a Series may store, which protects data quality and keeps algorithms fast. This lesson shows why the defaults still come from NumPy, when to prefer pandas extension types or Arrow, and how to use integers, floats, booleans, strings, categoricals, and datetimes without silent casts, lost precision, or wasted memory. Pan
